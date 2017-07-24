@@ -1,5 +1,9 @@
 #include <iostream>
+int man() {
 
+
+ return 0
+}
 develop
 
 devel
